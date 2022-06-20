@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rikkova, I'm a Network Engineer @CGI
 - 👀 I’m interested in Network Automation
-- 🌱 I’m currently learning Ansible and other automation frameworks
+- 🌱 I’m currently studying Ansible and other automation frameworks
 - 📫 You can reach me on Linkedin /rikkova
